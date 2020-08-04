@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="auto" src="https://drive.google.com/file/d/1f3-nGwoND7gQGsscpps6S88OAVpxNlMf/view?usp=sharing">
+<img width="257x320" src="https://scontent.fcpv4-1.fna.fbcdn.net/v/t1.0-9/s960x960/84208556_2751838064930716_5477743333029707776_o.jpg?_nc_cat=111&_nc_sid=dd7718&_nc_ohc=sB6Wi8RDrEYAX_28dCs&_nc_ht=scontent.fcpv4-1.fna&_nc_tp=7&oh=023c43e101d1366c2b6753f722a4a51e&oe=5F4FEC12">
 
 
 # Rafael Dantas
