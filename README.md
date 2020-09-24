@@ -29,7 +29,7 @@ Sou um FullStack Developer :computer:
  <br/> :battery: &nbsp; Sempre disposto a ajudar
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native,Typescript & SpringBoot
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games Valorant, LoL, WoW e seriados no Netflix
- <br/> :headphones:  &nbsp; MC Bruninho, Aldair Playboy, The Weeknd, Zé Vaqueiro, etc
+ <br/> :headphones:  &nbsp; MC Bruninho, Aldair Playboy, The Weeknd, Matuê, etc
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-RafaelDantas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaeldsa21/)](https://www.linkedin.com/in/rafaeldsa21) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-rafaeldantas461@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaeldantas461@gmail.com)](mailto:rafaeldantas461@gmail.com)
