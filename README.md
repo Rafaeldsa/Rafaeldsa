@@ -24,7 +24,7 @@ Sou apaixonado por resolver problemas utilizando a programação.:computer:
  :notebook:  &nbsp; Estudante na **Universidade Federal de Campina Grande**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end & Back-end
  <br/> :battery: &nbsp; Sempre disposto a ajudar
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games Valorant, LoL, WoW e seriados no Netflix
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, Valorant, LoL, WoW e seriados no Netflix
  <br/> :headphones:  &nbsp;Zé Vaqueiro, MC Bruninho, Aldair Playboy, The Weeknd, Matuê, etc
  <br/> :computer: 🖱️
  <br/> ![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaeldsa&show_icons=true&theme=vue)
