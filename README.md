@@ -27,6 +27,7 @@ Sou apaixonado por resolver problemas utilizando a programação.:computer:
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native,Typescript & SpringBoot
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games Valorant, LoL, WoW e seriados no Netflix
  <br/> :headphones:  &nbsp;Zé Vaqueiro, MC Bruninho, Aldair Playboy, The Weeknd, Matuê, etc
+ <br/> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaeldsa&show_icons=true&theme=vue)
  <br/> :email: &nbsp; Entre em contato comigo: 
  
  
