@@ -24,10 +24,12 @@ Sou apaixonado por resolver problemas utilizando a programação.:computer:
  :notebook:  &nbsp; Estudante na **Universidade Federal de Campina Grande**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end & Back-end
  <br/> :battery: &nbsp; Sempre disposto a ajudar
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native,Typescript & SpringBoot
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games Valorant, LoL, WoW e seriados no Netflix
  <br/> :headphones:  &nbsp;Zé Vaqueiro, MC Bruninho, Aldair Playboy, The Weeknd, Matuê, etc
- <br/> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaeldsa&show_icons=true&theme=vue)
+ <br/> :computer: 🖱️
+ <br/> ![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaeldsa&show_icons=true&theme=vue)
+ <br/> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
  <br/> :email: &nbsp; Entre em contato comigo: 
  
  
