@@ -28,7 +28,7 @@ Sou apaixonado por resolver problemas utilizando a programação.:computer:
  <br/> :headphones:  &nbsp;Zé Vaqueiro, MC Bruninho, Aldair Playboy, The Weeknd, Matuê, etc
  <br/> :computer: 🖱️
  <br/> ![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaeldsa&show_icons=true&theme=vue)
- <br/> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ <br/> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldsa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
  <br/> :email: &nbsp; Entre em contato comigo: 
  
