@@ -37,3 +37,12 @@ Sou apaixonado por resolver problemas utilizando a programação.:computer:
  [![Linkedin Badge](https://img.shields.io/badge/-RafaelDantas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaeldsa21/)](https://www.linkedin.com/in/rafaeldsa21) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-rafaeldantas461@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaeldantas461@gmail.com)](mailto:rafaeldantas461@gmail.com)
+
+<p align="center"> 
+
+ ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/rafaeldsa/count.svg" />
+ </p>
+
+</p>
